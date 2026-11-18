@@ -27,17 +27,17 @@ O fluxo é composto pelas seguintes etapas:
 
 ## 🖥️ Fluxo da automação
 
-![Fluxo completo da automação](docs/imagens/Fluxo.n8n.png)
+![Fluxo completo da automação](workflow/docs/imagens/Fluxo.n8n.png)
 
 ## Evidências do projeto
 
 ### Execução do workflow
 
-![Execução da automação](docs/imagens/Executado.png)
+![Execução da automação](workflow/docs/imagens/Executado.png)
 
 ### Resultado do envio
 
-![E-mail recebido](docs/imagens/Gmail.jpeg)
+![E-mail recebido](workflow/docs/imagens/Gmail.jpeg)
 
 ## Como executar
 
